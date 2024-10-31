@@ -38,8 +38,7 @@ If you find our work useful in your research, please consider citing the followi
 
 ```BibTeX
 @inproceedings{liu2024fastsurvival,
-  title={FastSurvival: Hidden Computational Blessings in
-Training Cox Proportional Hazards Models},
+  title={FastSurvival: Hidden Computational Blessings in Training Cox Proportional Hazards Models},
   author={Liu, Jiachang and Zhang, Rui and Rudin, Cynthia},
   booktitle={Thirty-eighth Conference on Neural Information Processing Systems},
   year={2024}
