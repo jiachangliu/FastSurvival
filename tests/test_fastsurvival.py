@@ -1,0 +1,1 @@
+from fastsurvival import fastsurvival
